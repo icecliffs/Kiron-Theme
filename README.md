@@ -3,7 +3,7 @@
 
 ## Preview
 
-![](https://github.com/icecliffs/cpzz_theme/preview.jpg)
+![](https://github.com/icecliffs/cpzz_theme/blob/main/preview.jpg)
 
 ## Features
 
