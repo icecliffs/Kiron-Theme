@@ -1,23 +1,21 @@
-# CPZZ-Emlog-Theme
- 适用于学校、企业等的开源Emlog模板，支持 Emlog 6.0
+# 该项目重构中！
 
-## Preview
+请给我一点时间，写出一个完美的模板！
 
-![](https://github.com/icecliffs/cpzz_theme/blob/main/preview.jpg)
+2021年3月3日 - Po7mn1
 
-## Features
+## Kiron-Theme
 
-首页幻灯片，在home.php里的 `<div class="slide-wrap">` 添加如下代码
-```html
-<div class="slide">
-	<img src="<?php echo TEMPLATE_URL;?>images/slides/要插入的图片"/>
-</div>
-```
+- 设计初衷
 
-## Usage
+适用于中小型学校、企业等的开源Emlog模板
 
-将主题放入Emlog主题位置即可
+- 部署环境
 
-## About
+该版本在 Emlog 6.0.0 下运行正常
 
-Emlog试手模板，到后边会一直更新的，希望变得更好。
+- 功能
+
+
+
+## 关于
